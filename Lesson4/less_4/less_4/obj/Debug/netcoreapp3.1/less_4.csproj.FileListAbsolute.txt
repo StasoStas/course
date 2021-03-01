@@ -1,0 +1,13 @@
+C:\Users\Intel\Desktop\LabMoscow\Lesson4\less_4\less_4\bin\Debug\netcoreapp3.1\less_4.exe
+C:\Users\Intel\Desktop\LabMoscow\Lesson4\less_4\less_4\bin\Debug\netcoreapp3.1\less_4.deps.json
+C:\Users\Intel\Desktop\LabMoscow\Lesson4\less_4\less_4\bin\Debug\netcoreapp3.1\less_4.runtimeconfig.json
+C:\Users\Intel\Desktop\LabMoscow\Lesson4\less_4\less_4\bin\Debug\netcoreapp3.1\less_4.runtimeconfig.dev.json
+C:\Users\Intel\Desktop\LabMoscow\Lesson4\less_4\less_4\bin\Debug\netcoreapp3.1\less_4.dll
+C:\Users\Intel\Desktop\LabMoscow\Lesson4\less_4\less_4\bin\Debug\netcoreapp3.1\less_4.pdb
+C:\Users\Intel\Desktop\LabMoscow\Lesson4\less_4\less_4\obj\Debug\netcoreapp3.1\less_4.csprojAssemblyReference.cache
+C:\Users\Intel\Desktop\LabMoscow\Lesson4\less_4\less_4\obj\Debug\netcoreapp3.1\less_4.AssemblyInfoInputs.cache
+C:\Users\Intel\Desktop\LabMoscow\Lesson4\less_4\less_4\obj\Debug\netcoreapp3.1\less_4.AssemblyInfo.cs
+C:\Users\Intel\Desktop\LabMoscow\Lesson4\less_4\less_4\obj\Debug\netcoreapp3.1\less_4.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Desktop\LabMoscow\Lesson4\less_4\less_4\obj\Debug\netcoreapp3.1\less_4.dll
+C:\Users\Intel\Desktop\LabMoscow\Lesson4\less_4\less_4\obj\Debug\netcoreapp3.1\less_4.pdb
+C:\Users\Intel\Desktop\LabMoscow\Lesson4\less_4\less_4\obj\Debug\netcoreapp3.1\less_4.genruntimeconfig.cache
